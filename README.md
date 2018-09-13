@@ -1,18 +1,3 @@
----
-title: "RegSeq Tutorial"
-author: "Duanchen Sun, Xiaopeng Huang"
-date: "`r Sys.Date()`"
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    number_sections: yes
-    toc: yes
-vignette: >
-  %\VignetteIndexEntry{RegSeq Tutorial}
-  %\VignetteEngine{knitr::rmarkdown}
----
-
-
 # Introduction
 RegSeq package contains the proposed RegSeq algorithm (function `Reg_Finding`), which is designed to perform the regulon analysis for RNA-Seq data, especially in small sample scenario. RegSeq can identify the key regulons that are most responsible for the difference in two groups samples. In this tutorial, we use several examples to help users executing RegSeq in real applications. 
 

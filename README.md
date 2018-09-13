@@ -4,4 +4,4 @@ RegSeq package contains the proposed RegSeq algorithm (function `Reg_Finding`), 
 See the attached User Tutorial file for more details.
 
 # Reference
-Duanchen Sun and Zheng Xia (2018): RegSeq: A novel GSEA-based algorithm to perform the regulon analysis on RNA-Seq data with small sample replicates.
+Duanchen Sun and Zheng Xia (2018): RegSeq: A novel GSEA-based algorithm to perform the regulon analysis on RNA-Seq data with small sample replicates (In preparation).

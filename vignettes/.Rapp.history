@@ -1,8 +1,0 @@
-load("/Users/sund/Desktop/RegSeq/packages/RegSeq/vignettes/ESCA.RData")
-ls()
-regulon <- regulon_viper
-save(regulon,file = 'ESCA_regulon.RData')
-load("/Users/sund/Desktop/RegSeq/packages/RegSeq/vignettes/PREPROCESSED_ESCA.RData")
-ls()
-exprs <- uni_matrix
-save(exprs,file='ESCA_expression.RData')
